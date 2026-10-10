@@ -1,0 +1,13 @@
+# secrets / local env
+.env
+
+# python
+__pycache__/
+*.py[cod]
+
+# node
+node_modules/
+dist/
+
+# local experiment scratch
+.tmp-sim-commonality/

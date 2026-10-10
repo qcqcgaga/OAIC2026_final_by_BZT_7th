@@ -1,0 +1,4 @@
+interface:
+  display_name: "ARC Bench Frontend Interaction Spec"
+  short_description: "Design rules for accessible, predictable frontend interactions."
+  default_prompt: "Use $arcbench-frontend-spec before implementing frontend interaction code."
